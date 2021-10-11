@@ -1,8 +1,48 @@
+body
+{
+	
+	background-color: pink;
+}
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
+}
+.name
+{
+	color: blue;
+}
+.image
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+  
+}
+.I1
+{
+	color:orange;
+}
+.N
+{
+	color:white;
+}
+.D
+{
+	color:green;
+}.I2
+{
+	color:orange;
+}
+.A
+{
+	color:white;
+}
+.age
+{
+	color:red;
 }
